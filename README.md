@@ -1,0 +1,2 @@
+# Real-time-updated-mean-calculator
+I will create three algorithms to calculate the mean, the variance and finally the covariance matrix. usually these are calculated in batch. This means that all the data is accessible and used to calculate these measurements. It is however also possible to calculate them online. This means the values (or the matrix in the last case) are constantly updated as new information (i.e. new rows of a table or new data from sensors) is available.
